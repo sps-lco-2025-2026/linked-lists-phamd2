@@ -31,7 +31,6 @@ public class IntegerLinkedList
         return _head == null ? "{}" : $"{{{_head}}}";
     }
 }
-
 public class IntegerNode
 {
     int _value;
